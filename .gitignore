@@ -1,0 +1,16 @@
+# virtualenv
+.venv
+
+# pyment
+pyment.conf
+
+# python eggs
+**/*egg-info/
+
+# python cache
+**/__pycache__/
+
+# work folders
+**/bundles/
+**/checkpoints/
+**/output/
